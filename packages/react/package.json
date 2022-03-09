@@ -17,5 +17,8 @@
   "dependencies": {
     "eslint-plugin-react": "^7.29.3",
     "@ysl07/eslint-config-typescript": "*"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

@@ -12,5 +12,8 @@
   "dependencies": {
     "@ysl07/eslint-config-react": "*",
     "@ysl07/eslint-config-vue": "*"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
