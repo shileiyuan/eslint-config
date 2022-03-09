@@ -1,6 +1,6 @@
 {
   "name": "@ysl/eslint-config-react",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "typescript": "^4.6.2"
   },
   "dependencies": {
-    "@ysl/eslint-config-typescript": "^0.1.1",
+    "@ysl/eslint-config-typescript": "^0.1.2",
     "eslint-plugin-react": "^7.29.3"
   },
   "publishConfig": {
