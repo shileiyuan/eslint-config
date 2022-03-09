@@ -1,6 +1,6 @@
 {
   "name": "@ysl/eslint-config-typescript",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
     "eslint": "^8.10.0"
   },
   "dependencies": {
-    "@ysl/eslint-config-basic": "*",
     "@typescript-eslint/eslint-plugin": "^5.14.0",
-    "@typescript-eslint/parser": "^5.14.0"
+    "@typescript-eslint/parser": "^5.14.0",
+    "@ysl/eslint-config-basic": "^0.1.0"
   }
 }
