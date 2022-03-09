@@ -1,5 +1,5 @@
 {
-  "name": "@ysl/eslint-config-vue",
+  "name": "@ysl07/eslint-config-vue",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "eslint-plugin-vue": "^8.5.0",
-    "@ysl/eslint-config-typescript": "*"
+    "@ysl07/eslint-config-typescript": "*"
   }
 }

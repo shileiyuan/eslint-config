@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['plugin:react/recommended', '@ysl/eslint-config-typescript']
+  extends: ['plugin:react/recommended', '@ysl07/eslint-config-typescript']
 }
