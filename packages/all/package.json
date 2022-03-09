@@ -1,6 +1,6 @@
 {
   "name": "@ysl/eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ysl/eslint-config-react": "^0.1.0",
-    "@ysl/eslint-config-vue": "^0.1.0"
+    "@ysl/eslint-config-react": "^0.1.1",
+    "@ysl/eslint-config-vue": "^0.1.1"
   }
 }
